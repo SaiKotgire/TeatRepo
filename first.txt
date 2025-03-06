@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/SaiKotgire/TeatRepo.git
 git push -u origin main
+
+
+this are the changes made in the file after the add command 
